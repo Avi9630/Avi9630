@@ -17,7 +17,7 @@ Building scalable web applications, REST APIs and enterprise software.
 
 ## About
 
-Backend Developer with **6+ years** of experience building enterprise applications using Laravel, PHP, Node.js and React. Currently working with **SISL Infotech** on projects for the **National Film Development Corporation (NFDC)**.
+Backend Developer with **7+ years** of experience building enterprise applications using Laravel, PHP, Node.js and React. Currently working with **SISL Infotech** on projects for the **National Film Development Corporation (NFDC)**.
 
 | Experience | Current Focus | Exploring |
 |------------|---------------|-----------|
@@ -31,8 +31,8 @@ Backend Developer with **6+ years** of experience building enterprise applicatio
 |---------|----------|----------|----------------|
 | Laravel | React | MySQL | Git |
 | PHP | JavaScript | MongoDB | Docker |
-| Lumen | HTML/CSS | Redis | Linux |
-| Node.js | Bootstrap | SQLite | Postman |
+| Lumen | HTML/CSS | Redis | Prism | Sequalize | Linux |
+| Node.js | Postman |
 
 ---
 
