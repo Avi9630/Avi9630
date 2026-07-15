@@ -5,86 +5,57 @@ Senior Backend Developer • Laravel • PHP • Node.js • React
 </p>
 
 <p align="center">
-Building scalable web applications, REST APIs, and enterprise solutions.
+Building scalable web applications, REST APIs and enterprise software.
+</p>
+
+<p align="center">
+<a href="https://github.com/Avi9630">GitHub</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
 </p>
 
 ---
 
 ## About
 
-Backend Developer with **6+ years** of experience building enterprise applications using **Laravel**, **PHP**, **Node.js**, and **React**. I enjoy designing scalable backend systems, developing secure REST APIs, optimizing databases, and solving complex business problems with clean, maintainable code.
+Backend Developer with **6+ years** of experience building enterprise applications using Laravel, PHP, Node.js and React. Currently working with **SISL Infotech** on projects for the **National Film Development Corporation (NFDC)**.
 
-Currently working on government and enterprise software projects at **SISL Infotech**, deployed to the **National Film Development Corporation (NFDC)**.
-
----
-
-## Experience
-
-**Senior Backend Developer**  
-**SISL Infotech** *(Current)*
-
-- Enterprise Laravel applications
-- REST API development
-- System architecture & backend design
-- Database optimization
-- Authentication & authorization
-- Third-party integrations
+| Experience | Current Focus | Exploring |
+|------------|---------------|-----------|
+| 6+ Years | Enterprise Applications, REST APIs, System Design | Docker, Microservices, Cloud |
 
 ---
 
-## Tech Stack
+## Technology
 
-| Backend | Frontend | Database | Tools |
-|---------|----------|----------|-------|
+| Backend | Frontend | Database | DevOps & Tools |
+|---------|----------|----------|----------------|
 | Laravel | React | MySQL | Git |
 | PHP | JavaScript | MongoDB | Docker |
-| Lumen | HTML/CSS | Redis | Postman |
-| Node.js | Bootstrap | | Linux |
+| Lumen | HTML/CSS | Redis | Linux |
+| Node.js | Bootstrap | SQLite | Postman |
 
 ---
 
-## What I Work On
+## Expertise
 
-- Enterprise Web Applications
-- REST APIs
-- Authentication & Authorization
-- Backend Architecture
-- Database Design
-- Performance Optimization
-- API Integrations
-- Payment & Government Systems
-
----
-
-## Currently Exploring
-
-- System Design
-- Microservices
-- Docker
-- Node.js Ecosystem
-- Cloud Deployment
+| Backend | Architecture | Integrations |
+|---------|--------------|--------------|
+| REST APIs | Authentication & Authorization | Payment Gateways |
+| Database Design | Performance Optimization | Third-party APIs |
+| Enterprise Applications | Clean Architecture | Government Systems |
 
 ---
 
 ## Featured Projects
 
 - Laravel REST API Boilerplate
-- Authentication & Authorization System
+- Enterprise Management System
 - Node.js REST API
 - React Admin Dashboard
-- Enterprise Management System
-
-> *(Replace these with your pinned repositories.)*
-
----
-
-## Contact
-
-- GitHub: **github.com/Avi9630**
-- LinkedIn: **Add your LinkedIn profile**
+- Authentication & Authorization
 
 ---
 
 <p align="center">
-<i>"Write code that is easy to understand, maintain, and scale."</i>
+<i>Clean Code • Scalable Systems • Continuous Learning</i>
 </p>
