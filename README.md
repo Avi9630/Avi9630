@@ -10,7 +10,7 @@ Building scalable web applications, REST APIs and enterprise software.
 
 <p align="center">
 <a href="https://github.com/Avi9630">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+<a href="https://www.linkedin.com/in/avinash-kumar-515a7063/">LinkedIn</a>
 </p>
 
 ---
