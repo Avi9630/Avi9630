@@ -8,46 +8,83 @@ Senior Backend Developer • Laravel • PHP • Node.js • React
 Building scalable web applications, REST APIs, and enterprise solutions.
 </p>
 
-<p align="center">
-<a href="https://github.com/Avi9630">GitHub</a> •
-<a href="https://www.linkedin.com/in/avinash-kumar-515a7063/">LinkedIn</a>
-</p>
+---
+
+## About
+
+Backend Developer with **6+ years** of experience building enterprise applications using **Laravel**, **PHP**, **Node.js**, and **React**. I enjoy designing scalable backend systems, developing secure REST APIs, optimizing databases, and solving complex business problems with clean, maintainable code.
+
+Currently working on government and enterprise software projects at **SISL Infotech**, deployed to the **National Film Development Corporation (NFDC)**.
 
 ---
 
-### Tech Stack
+## Experience
 
-```text
-Backend    Laravel • PHP • Lumen • Node.js • Express.js
-Frontend   React • JavaScript • HTML • CSS • Bootstrap
-Database   MySQL • MongoDB • Redis • Prisma • Sequalize 
-Tools      Git • Docker • Postman • Linux 
-```
+**Senior Backend Developer**  
+**SISL Infotech** *(Current)*
 
-### GitHub Analytics
+- Enterprise Laravel applications
+- REST API development
+- System architecture & backend design
+- Database optimization
+- Authentication & authorization
+- Third-party integrations
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avi9630&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi9630&layout=compact&hide_border=true"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Avi9630&hide_border=true"/>
-</p>
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi9630&hide_border=true"/>
-</p>
+| Backend | Frontend | Database | Tools |
+|---------|----------|----------|-------|
+| Laravel | React | MySQL | Git |
+| PHP | JavaScript | MongoDB | Docker |
+| Lumen | HTML/CSS | Redis | Postman |
+| Node.js | Bootstrap | | Linux |
 
-### About
+---
 
-- Senior Backend Developer with **7+ years** of experience
-- Building enterprise web applications and scalable REST APIs
-- Experienced in Laravel, PHP, Node.js, React, MySQL & MongoDB
-- Passionate about clean architecture, performance optimization, and system design
+## What I Work On
+
+- Enterprise Web Applications
+- REST APIs
+- Authentication & Authorization
+- Backend Architecture
+- Database Design
+- Performance Optimization
+- API Integrations
+- Payment & Government Systems
+
+---
+
+## Currently Exploring
+
+- System Design
+- Microservices
+- Docker
+- Node.js Ecosystem
+- Cloud Deployment
+
+---
+
+## Featured Projects
+
+- Laravel REST API Boilerplate
+- Authentication & Authorization System
+- Node.js REST API
+- React Admin Dashboard
+- Enterprise Management System
+
+> *(Replace these with your pinned repositories.)*
+
+---
+
+## Contact
+
+- GitHub: **github.com/Avi9630**
+- LinkedIn: **Add your LinkedIn profile**
 
 ---
 
 <p align="center">
-<i>Clean Code • Scalable Architecture • Continuous Learning</i>
+<i>"Write code that is easy to understand, maintain, and scale."</i>
 </p>
